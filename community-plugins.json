@@ -16828,8 +16828,8 @@
     "repo": "adamfletcher/obsidian-sentence-rhythm"
 },
 {
-  "id": "folder-property-manager",
-  "name": "Folder Property Manager",
+  "id": "folder-properties-manager",
+  "name": "Folder Properties Manager",
   "author": "elekis-git",
   "description": "Manage properties inherited from folders.",
   "repo": "elekis-git/obsidian-properties-view"
